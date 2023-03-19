@@ -25,4 +25,25 @@ Decentralized traffic control, resilient to network outages.
 All computations are done on-board and thus, do not depend on any external softwares and cloud services.
 A raspberry pi is highly portable and easy to setup.
 
+# Procedure
+Input: The system uses cameras to capture images of the traffic flow at each intersection and analyzes them on the microcomputer. 
 
+Output: The system analyzes the data and calculates the optimal traffic light duration for each intersection using a fuzzy logic algorithm. The system then sends commands to the traffic lights via Wi-Fi to adjust their timing accordingly.
+
+Processing: The system uses the on board Raspberry Pi computer to run a highly efficient model which analyses video frames from the camera to determine the number of cars in the frame. It handles input from 4 different camera systems and decides optimal traffic light timings based on the inputs. 
+
+# Pros: 
+The system has several advantages over conventional traffic light systems that use fixed timing or manual control. Some of these advantages are:
+It can reduce traffic congestion and improve traffic flow by adapting to real-time traffic conditions.
+It can save fuel consumption and reduce emissions by minimizing idling time and stop-and-go movements1.
+It can enhance road safety by reducing accidents caused by human errors or impatient drivers.
+It can provide useful information for traffic management and planning purposes by collecting and analyzing data from various sources
+
+# Good aspects:
+The system has some good aspects that make it attractive for potential users or customers. Some of these aspects are:
+It is easy to install and operate as it does not require major changes in the existing infrastructure or hardware.
+It is cost-effective as it uses low-cost devices such as cameras and sensors that are widely available in the market.
+It is scalable as it can be deployed in different locations and scenarios with minimal modifications.
+It is flexible as it can accommodate different types of vehicles such as cars, buses, trucks etc.
+It is decentralized, therefore won’t go down even if the connectivity is poor
+Therefore, we believe that our smart traffic light system is a valuable solution for improving traffic management in smart cities.
