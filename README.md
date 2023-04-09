@@ -11,8 +11,6 @@ Adjustment: The control system then adjusts the timing of the traffic lights bas
 
 Monitoring: The system continually monitors the traffic flow and adjusts the signal timing as needed to respond to changing traffic patterns.
 
-Overall, SMART traffic lights help to create a more efficient and safer transportation system by using real-time data and advanced algorithms to optimize traffic flow at intersections
-
 # Statistics
 According to a report by the Ministry of Road Transport and Highways, India had 4.12 lakh road accidents in 2021, resulting in 1.53 lakh deaths and 3.84 lakh injuries.
 According to a study conducted by a global consultancy firm, traffic congestion
