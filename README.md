@@ -27,6 +27,8 @@ A raspberry pi is highly portable and easy to setup.
 Input: The system uses cameras to capture images of the traffic flow at each intersection and analyzes them on the microcomputer. 
 
 Output: The system analyzes the data and calculates the optimal traffic light duration for each intersection using a fuzzy logic algorithm. The system then sends commands to the traffic lights via Wi-Fi to adjust their timing accordingly.
+![image](https://github.com/PranavBhanot/SMART-TRAFFIC-LIGHT-MANAGEMENT-USING-IOT-AND-DEEP-LEARNING-/assets/74693658/3626cf84-74f0-408a-aeab-494b0f6cf791)
+
 
 Processing: The system uses the on board Raspberry Pi computer to run a highly efficient model which analyses video frames from the camera to determine the number of cars in the frame. It handles input from 4 different camera systems and decides optimal traffic light timings based on the inputs. 
 
