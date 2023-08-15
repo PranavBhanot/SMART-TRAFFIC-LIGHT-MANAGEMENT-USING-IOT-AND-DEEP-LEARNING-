@@ -9,7 +9,9 @@ Data collection: Sensors such as cameras, radar, and loop detectors are installe
 Analysis: The data collected by the sensors is sent to a central control system that uses algorithms to analyze the information and determine the best traffic signal timing patterns for each intersection.
 
 
-<img width="221" alt="image" src="https://github.com/PranavBhanot/SMART-TRAFFIC-LIGHT-MANAGEMENT-USING-IOT-AND-DEEP-LEARNING-/assets/74693658/5af1a5f1-dd3a-42e6-98db-985102cd313d">
+<img width="547" alt="image" src="https://github.com/PranavBhanot/SMART-TRAFFIC-LIGHT-MANAGEMENT-USING-IOT-AND-DEEP-LEARNING-/assets/74693658/82c89f71-ac04-46db-8caa-9b9dc66970fe">
+
+
 Adjustment: The control system then adjusts the timing of the traffic lights based on the analysis to improve the flow of traffic, reduce congestion, and improve safety.
 
 Monitoring: The system continually monitors the traffic flow and adjusts the signal timing as needed to respond to changing traffic patterns.
@@ -20,7 +22,6 @@ According to a study conducted by a global consultancy firm, traffic congestion
 costs the economy Rs 1.47 lakh crore annually.
 The study was conducted during peak hours in Delhi, Mumbai, Bengaluru and Kolkata.
 Traffic congestion increases vehicle emissions and degrades ambient air quality, and recent studies have shown excess morbidity and mortality for drivers, commuters and individuals living near major roadways.
-<img width="547" alt="image" src="https://github.com/PranavBhanot/SMART-TRAFFIC-LIGHT-MANAGEMENT-USING-IOT-AND-DEEP-LEARNING-/assets/74693658/82c89f71-ac04-46db-8caa-9b9dc66970fe">
 
 # Unique Features
 Decentralized traffic control, resilient to network outages.
