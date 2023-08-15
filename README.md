@@ -11,6 +11,8 @@ Analysis: The data collected by the sensors is sent to a central control system 
 
 <img width="221" alt="image" src="https://github.com/PranavBhanot/SMART-TRAFFIC-LIGHT-MANAGEMENT-USING-IOT-AND-DEEP-LEARNING-/assets/74693658/5af1a5f1-dd3a-42e6-98db-985102cd313d">
 
+
+
 <img width="547" alt="image" src="https://github.com/PranavBhanot/SMART-TRAFFIC-LIGHT-MANAGEMENT-USING-IOT-AND-DEEP-LEARNING-/assets/74693658/82c89f71-ac04-46db-8caa-9b9dc66970fe">
 
 
